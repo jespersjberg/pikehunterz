@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E355A891ED44418002AD76B /* iPhone 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E355A871ED44418002AD76B /* iPhone 7.png */; };
+		3E355A8A1ED44418002AD76B /* Group2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E355A881ED44418002AD76B /* Group2.png */; };
+		3E355A8E1ED44C2A002AD76B /* Group2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E355A8B1ED44C2A002AD76B /* Group2.png */; };
 		3EF709841ECC4E3F00EAD8C5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EF709831ECC4E3F00EAD8C5 /* AppDelegate.swift */; };
 		3EF709861ECC4E3F00EAD8C5 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EF709851ECC4E3F00EAD8C5 /* FirstViewController.swift */; };
 		3EF709881ECC4E3F00EAD8C5 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EF709871ECC4E3F00EAD8C5 /* SecondViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E355A871ED44418002AD76B /* iPhone 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPhone 7.png"; path = "../../iPhone 7.png"; sourceTree = "<group>"; };
+		3E355A881ED44418002AD76B /* Group2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Group2.png; path = ../../Group2.png; sourceTree = "<group>"; };
+		3E355A8B1ED44C2A002AD76B /* Group2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Group2.png; path = ../../Group2.png; sourceTree = "<group>"; };
 		3EF709801ECC4E3F00EAD8C5 /* windUp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = windUp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EF709831ECC4E3F00EAD8C5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3EF709851ECC4E3F00EAD8C5 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +62,9 @@
 		3EF709821ECC4E3F00EAD8C5 /* windUp */ = {
 			isa = PBXGroup;
 			children = (
+				3E355A871ED44418002AD76B /* iPhone 7.png */,
+				3E355A881ED44418002AD76B /* Group2.png */,
+				3E355A8B1ED44C2A002AD76B /* Group2.png */,
 				3EF709831ECC4E3F00EAD8C5 /* AppDelegate.swift */,
 				3EF709851ECC4E3F00EAD8C5 /* FirstViewController.swift */,
 				3EF709871ECC4E3F00EAD8C5 /* SecondViewController.swift */,
@@ -127,7 +136,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EF709901ECC4E3F00EAD8C5 /* LaunchScreen.storyboard in Resources */,
+				3E355A891ED44418002AD76B /* iPhone 7.png in Resources */,
+				3E355A8E1ED44C2A002AD76B /* Group2.png in Resources */,
 				3EF7098D1ECC4E3F00EAD8C5 /* Assets.xcassets in Resources */,
+				3E355A8A1ED44418002AD76B /* Group2.png in Resources */,
 				3EF7098B1ECC4E3F00EAD8C5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -303,6 +315,7 @@
 				3EF709961ECC4E3F00EAD8C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
